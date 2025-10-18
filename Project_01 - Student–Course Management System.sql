@@ -51,7 +51,7 @@ INSERT into `Courses` (course_name, price) VALUES('AutomationTestingBatch', 1000
 
 # ----------------------------------------------------------------------------------------------------------
 
-# Table-03 (StudentCouse) with Relationship btw Students and ourses Table using Foreign Key
+# Table-03 (StudentCouse) with Relationship btw Students and Courses Table using Foreign Key
 Create Table `StudentCourse` (
 `StudentID` BIGINT NOT NULL,
 `CourseID` BIGINT NOT NULL
