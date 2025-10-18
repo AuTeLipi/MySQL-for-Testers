@@ -1,6 +1,6 @@
 <h1 align="center">
 
-🧠 MySQL for Testers
+🧠🐬 MySQL for Testers
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b8f7681f-206f-44ae-8bed-6a48275aae1c" />
 
