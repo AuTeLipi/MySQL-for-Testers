@@ -1,9 +1,4 @@
-<p align="center">
-  
-  # 🧠🐬 Complete MySQL Learning for Testers
-  
-</p>
-
+<h1 align="center">🧠🐬 Complete MySQL Learning for Testers</h1>
 
 <h1 align="center">
 
