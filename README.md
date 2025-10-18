@@ -1,4 +1,4 @@
-# 🧠 MySQL for Testers
+<h1 align="center">🧠 MySQL for Testers</h1>
 
 ![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=mysql)
 ![For QA Engineers](https://img.shields.io/badge/For-QA%20%26%20SDET%20Engineers-green?style=for-the-badge)
