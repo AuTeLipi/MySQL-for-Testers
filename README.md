@@ -1,15 +1,17 @@
 <h1 align="center">
 
-# 🧠 MySQL for Testers
+🧠 MySQL for Testers
+
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b8f7681f-206f-44ae-8bed-6a48275aae1c" />
 
 ![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=mysql)
 ![For QA Engineers](https://img.shields.io/badge/For-QA%20%26%20SDET%20Engineers-green?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💻-brightgreen?style=for-the-badge)
 ![Learning Project](https://img.shields.io/badge/Project-Learning-orange?style=for-the-badge)
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b8f7681f-206f-44ae-8bed-6a48275aae1c" />
-
 </h1>
+
+---
 
 ## 📘 Overview
 **MySQL for Testers** is a structured learning repository for **Software Testers**, **QA Engineers**, and **SDETs** who want to master database concepts using **MySQL**.  
