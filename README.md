@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 60px;">
+<h1 align="center" style="font-size: 600px;">
   
 🧠🐬 MySQL for Testers
 
