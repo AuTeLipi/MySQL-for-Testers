@@ -1,8 +1,9 @@
-<h1 align="center" style="font-size: 600px;">
+<p align="center">
   
-🧠🐬 MySQL for Testers
+  # 🧠🐬 Complete MySQL Learning for Testers
+  
+</p>
 
-</h1>
 
 <h1 align="center">
 
