@@ -74,7 +74,7 @@ These hands-on projects show how SQL supports **real-world testing workflows** a
 ---
 
 ## 🔗 Practice Resources
-- [W3Schools SQL Playground](https://www.w3schools.com/sql/trysql.asp)  
+- [W3Schools SQL Playground](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)  
 - [Programiz SQL Online Compiler](https://www.programiz.com/sql/online-compiler/)  
 - [The Testing Academy - YouTube](https://www.youtube.com/@thetestingacademy)  
 
